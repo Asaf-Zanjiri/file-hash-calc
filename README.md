@@ -20,7 +20,7 @@ This application was only tested on a Windows 10 (19043). It may not work on oth
 **Installation/Usage Guidelines:**
 
 1. Compile the code.
-2. Run `[filename].exe --install` in the command line to install the program. Note: [filename] is the name of the compiled executable of the code.
+2. Run `[filename].exe --install` in the command line as administrator to install the program. Note: [filename] is the name of the compiled executable of the code.
 3. Right click a file and choose "Calculate file hash" - a window message should show up with the file's MD5 and SHA256 hashes.
 
 

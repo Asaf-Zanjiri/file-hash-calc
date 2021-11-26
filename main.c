@@ -5,8 +5,6 @@
 
 #include "picohash.h"
 
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Wdeprecated-declarations"
 #define BUFSIZE 1024
 #define INSTALL_FILENAME "HashCalc.exe"
 #define INSTALL_FOLDER "HashCalc"
